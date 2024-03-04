@@ -1,7 +1,7 @@
 /build/
 /dist/
 /.idea/
-/.vscode/
+# /.vscode/
 /nbproject/
 nbproject/private/
 /webrev
